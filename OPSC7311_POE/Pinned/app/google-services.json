@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161093712916",
+    "project_id": "pinned-e5db8",
+    "storage_bucket": "pinned-e5db8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161093712916:android:c42f45022ab8370af8fb01",
+        "android_client_info": {
+          "package_name": "com.rochelle.pinned"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161093712916-c5qure9ltlto5i50s0k6u4chv9t8vqot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGV3aGJNu2Rk7sqHpFMKzrT8EzukbnDvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161093712916-c5qure9ltlto5i50s0k6u4chv9t8vqot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
